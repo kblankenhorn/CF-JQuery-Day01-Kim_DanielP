@@ -1,0 +1,43 @@
+var family = `[{
+"name":"Karen", 
+"image":"1.jpg",
+"relation":"Mom",
+"age":"64"
+},
+{
+"name":"Billy Joe Bob",
+"image":"2.jpg",
+"relation":"Cousin of Karen aka Dad",
+"age":"50",
+},
+{
+"name":"Taylor",
+"image":"3.jpg",
+"relation":"twin Sister",
+"age":"25",
+},
+{
+"name":"Taylar",
+"image":"4.jpg",
+"relation":"twin Brother",
+"age":"25",
+},
+{
+"name":"Malake",
+"image":"5.jpg",
+"relation":"brother",
+"age":"10",
+},
+{
+"name":"Pete",
+"image":"6.jpg",
+"relation":"brother",
+"age":"8",
+},
+{
+"name":"Susie",
+"image":"7.jpg",
+"relation":"sister",
+"age":"4",
+}
+]`;
